@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#017e1c"
+        android:padding="10dp"
+        android:text="Detail"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#FFFFFF"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Tanggal bermain"
+            android:background="#F2F2F2"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#0B0B61" />
+
+        <TextView
+            android:id="@+id/txtTgl"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Large Text"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#585858" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="2dp"
+            android:background="@android:color/darker_gray" />
+        
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Jawaban benar"
+            android:background="#F2F2F2"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#0B0B61" />
+
+        <TextView
+            android:id="@+id/txtBenar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Large Text"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#585858" />
+
+        <View
+		    android:layout_width="fill_parent"
+		    android:layout_height="1dp"
+		     android:layout_marginBottom="2dp"
+            android:layout_marginTop="2dp"
+		    android:background="@android:color/darker_gray"/>
+        
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Jawaban salah"
+            android:background="#F2F2F2"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#0B0B61" />
+
+        <TextView
+            android:id="@+id/txtListSalah"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Large Text"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#585858" />
+
+        
+        <View
+		    android:layout_width="fill_parent"
+		    android:layout_height="1dp"
+		     android:layout_marginBottom="2dp"
+            android:layout_marginTop="2dp"
+		    android:background="@android:color/darker_gray"/>
+        
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Lama bermain"
+            android:background="#F2F2F2"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#0B0B61" />
+
+        <TextView
+            android:id="@+id/txtLama"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Large Text"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#585858" />
+
+    </LinearLayout>
+     
+</LinearLayout>

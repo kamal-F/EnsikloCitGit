@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ensiklopedia Buah</string>
+    <string name="app_splash">Ensiklopedia Buah \nPAUDNI \nCIMAHI \nIT Creative 2018</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_settings">Settings</string>
+    <string name="selesai_main">Selesai</string>
+    <string name="endgame_msg1">klik untuk melanjutkan..</string>
+    <string name="menu_aplikasi">Menu</string>
+    <string name="menu_ensikotanaman">Ensiklopedia Buah</string>
+    <string name="list_nilai">Nilai</string>
+    <string name="help_aplikasi">Petunjuk</string>
+    <string name="help_aplikasi_lengkap">"\nPada menu 1, anak dapat mempelajari beberapa jenis buah disertai dengan fitur suara Tts.
+        \nMenu 2, anak dapat menggunakan fitur Artificial Intelligence untuk mengenali suatu objek sekaligus belajar melafalkannya dalam bahasa Inggris.
+        \nMenu 3, anak dapat menguji kemampuan daya ingatnya. Aplikasi hanya akan menampilkan gambar dan suara yang kemudian anak harus memilih awal huruf dari soal.
+        \nMenu 4, hasil dari permainan dapat dievaluasi oleh orang tua. Lama anak bermain dan jawaban yang salah akan tercatat.
+        \n
+        \nAuthor : kamal
+        \ncp : kamalonnetx@gmail.com
+        \nMei 2018"</string>
+    <string name="title_activity_cloud_vision">CloudVision</string>
+</resources>
